@@ -15,6 +15,6 @@ main img {
     width: 800px;
 } 
 
-main > div > p {
+main > div {
     text-align: center;
 }
